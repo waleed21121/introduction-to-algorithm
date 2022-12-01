@@ -1,2 +1,4 @@
-# introduction-to-algorithm
-notes of the book and code examples and excercises 
+# Introduction to algorithm
+
+# Notes and Codes
+
